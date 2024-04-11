@@ -35,5 +35,6 @@ Welcome to my IBM Machine Learning Course repository! Here you'll find all the n
 
 Certificate of completion for the IBM Machine Learning Course on Coursera.
 
-[Machine Learning with Python Certificate.pdf](https://github.com/mostafa7arafa/MachineLearning_Python_IBM/files/14940907/Machine.Learning.with.Python.Certificate.pdf)
+![image](https://github.com/mostafa7arafa/MachineLearning_Python_IBM/assets/58299212/f210e7d3-3d4f-4e4a-bd5a-537e4c6af743)
+
 
