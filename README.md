@@ -31,6 +31,38 @@ Welcome to my IBM Machine Learning Course repository! Here you'll find all the n
 
 - **Final_Rain_Solved.ipynb**: Final assignment solved with screenshots included.
 
+## Usage
+
+1. **Clone the Repository:** 
+    ```bash
+    git clone tps://github.com/mostafa7arafa/MachineLearning_Python_IBM
+    ```
+
+2. **Navigate to the Project Directory:**
+    ```bash
+    cd MachineLearning_Python_IBM
+    ```
+
+3. **Open Jupyter Notebooks:**
+    Launch Jupyter Notebook or JupyterLab to explore the notebooks.
+    ```bash
+    jupyter notebook
+    ```
+    or
+    ```bash
+    jupyter lab
+    ```
+
+4. **Explore Notebooks:**
+    Open the desired notebook from the list and run the cells to understand the implementations and analyses.
+
+5. **Utilize Datasets:**
+    Access the datasets in the `data` directory for practicing with the notebooks or for your own analyses.
+
+6. **Review Final Assignment:**
+    Open the `Final_Rain_Solved.ipynb` notebook for the solved final assignment with detailed explanations and screenshots.
+
+
 ## Certificate
 
 Certificate of completion for the IBM Machine Learning Course on Coursera.
